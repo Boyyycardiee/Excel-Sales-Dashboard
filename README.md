@@ -27,7 +27,7 @@ data analysis and visualization tools.
 - Applying consistent KPI design principles for at-a-glance reporting
 
 ## Dashboard Preview
-![Dashboard Screenshot](screenshot.png)
+![Dashboard Screenshot](dashboard-screenshot.png)
 
 ## Areas for Future Improvement
 - Incorporate advanced lookup functions (INDEX/MATCH, XLOOKUP) for more 
