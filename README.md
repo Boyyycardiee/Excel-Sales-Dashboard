@@ -37,7 +37,7 @@ data analysis and visualization tools.
 - Add a written insights/summary section to accompany the raw metrics
 
 ## Tools Used
-- Microsoft Excel (Power Query, Pivot Tables, Slicers, SUMIF/SUMIFS)
+- Microsoft Excel (Pivot Tables, Slicers, SUMIF/SUMIFS)
 
 ---
 Completed as part of the TS Academy Excel training program.
